@@ -1,0 +1,2 @@
+# MagiskOnWSALocaI
+MNAK
